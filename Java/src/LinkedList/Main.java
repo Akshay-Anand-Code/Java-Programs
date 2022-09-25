@@ -14,7 +14,7 @@ public class Main {
         list.insertAt(0, 34);
         list.delelteAt(2);
         list.delelteAt(5);
-        //test
+        //test1
 
         list.show();
     }
